@@ -1,6 +1,6 @@
 
 # Landing Page – Progetto dimostrativo
-![Landing Page](https://img.shields.io/badge/Project-Landing%20Page-blueviolet)
+[![Landing Page](https://img.shields.io/badge/Project-Landing%20Page-blueviolet)](INFOlandingpage.md)
 
 ---
 
