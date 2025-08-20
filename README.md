@@ -3,6 +3,12 @@
 
 ---
 
+## Anteprima online
+
+[Visita il sito online](https://paginaprova.altervista.org)  
+
+---
+
 ## Landing page realizzata con HTML e CSS puri, senza framework o librerie esterne.
 
 ---
@@ -35,8 +41,4 @@ Struttura pulita e riutilizzabile: basta cambiare testi e colori per adattarla a
 
 ---
 
-## Anteprima online
 
-📎 Visualizza la landing online
-
-(oppure copia il link nel browser)
