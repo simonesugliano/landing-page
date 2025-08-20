@@ -1,0 +1,175 @@
+/*-----------------------------------------------media query-------------------------------------------------------------------*/
+@media (max-width: 900px) {
+    body{
+        margin: 1rem !important;
+        padding:0 !important;
+        overflow-x: hidden;
+    }
+    .container{
+        display: grid !important;
+    }
+
+}
+/*-----------------------------------------------corpo-------------------------------------------------------------------*/
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+html {
+  scroll-behavior:smooth ;
+}
+
+.riduzione{
+max-width: 1300px;
+margin:0 auto
+
+}
+
+body{
+background-color: rgba(255, 228, 196, 0.425);
+    margin:0;
+    padding:5rem 20rem 5rem 20rem;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: x-large;
+border: 2px solid green;;
+}
+
+#mc_embed_signup {
+  width: 100% !important;
+}
+
+.contain{
+    width: 100%;
+    margin-right: 2%;
+}
+
+.container{
+display: flex;
+  align-items: center; /* Allinea verticalmente */
+  gap: 3vw;
+}
+
+.contenitore{
+  height: fit-content;             
+  display: flex;
+  justify-content: center;    
+  align-items: center;        /* Allinea verticalmente */
+}
+
+/*-----------------------------------------------caratteri-------------------------------------------------------------------*/
+.titolone{
+    color: rgb(24, 164, 24);
+    font-size: 3rem;
+    margin:5%;
+    text-align: center;
+}
+
+
+.fine{
+    font-size: 2em;
+    color: rgb(24, 164, 24);
+}
+.span{
+    color: red;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.strong{
+    font-weight: 550;
+}
+
+.annulla{
+     font-size: 1.2em;
+    font-weight: 500;
+}
+
+/*-----------------------------------------------spazi-------------------------------------------------------------------*/
+
+.separatore{
+    width: 100%;
+    height: 10vh;
+}
+
+.separatorePiccolo{
+       width: 100%;
+    height: 5vh; 
+}
+
+/*-----------------------------------------------immagine/i-------------------------------------------------------------------*/
+
+.img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+  position: relative;
+}
+
+/*-----------------------------------------------pulsante/i-------------------------------------------------------------------*/
+
+.btn-link{
+    text-decoration:none;
+    color:black;
+    font-size: 3rem;
+    background-color: rgba(255, 81, 0, 0.26);
+    padding:0.2em;
+    margin:0;
+    border-radius: 0.4em;
+    border:0.1em solid black;
+}
+
+.btn-link:hover{
+    font-size:2.5em;
+    cursor:pointer;
+    background-color: rgba(255, 0, 0, 0.315);
+    font-weight: bold;
+}
+
+.pulsJs{
+    text-decoration:none;
+    color:white;
+    font-size: 3rem;
+    background-color: rgba(0, 94, 255, 0.374);
+    padding: 0.2em;
+    margin:0;
+    border-radius: 0.4em;
+}
+
+.pulsJs:hover{
+    font-size:3.5em;
+    cursor:pointer;
+    background-color: rgba(255, 0, 0, 0.397);
+    font-weight: bold;
+}
+
+.disclaimer{
+    background-color: red;
+    border:none;
+    border-radius:6px;
+    color: #fff;
+}
+
+.formrichiesta{
+    color: red;
+    background-color: rgba(245, 222, 179, 0.377);
+    border:1px, solid red;
+    border-radius: 3px;
+    font-size: 2rem;
+}
+
+.formrichiesta:hover{
+    background-color: rgba(251, 255, 0, 0.596);
+    font-size: 2.3rem;
+}
+
+textarea{
+    width: 40%;
+    height: 10vh;
+}
+
+.nome{
+   width: 40%; 
+}
+
+.linktesto{
+    text-decoration: none;
+}
