@@ -41,4 +41,8 @@ Struttura pulita e riutilizzabile: basta cambiare testi e colori per adattarla a
 
 ---
 
+## ANTEPRIMA DEL SITO;  
 
+### Qui vedi l’impostazione iniziale della landing page. <br><br>
+
+![Homepage del sito](/img/land.png)
